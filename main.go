@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ankane/pdscan/cmd"
+import "github.com/rjcortese/pdscan/cmd"
 
 func main() {
 	cmd.Execute()

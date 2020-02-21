@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ankane/pdscan/internal"
+	"github.com/rjcortese/pdscan/internal"
 	"github.com/spf13/cobra"
 )
 
